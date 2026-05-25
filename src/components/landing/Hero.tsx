@@ -6,17 +6,17 @@ export default function Hero() {
       <div className="p-8 md:p-10 lg:p-12 flex flex-col md:flex-row items-start">
         <div className="w-full md:w-3/5 z-10">
           <h1 className="text-black dark:text-white text-4xl md:text-5xl lg:text-6xl font-medium leading-tight">
-            Ваш AI-партнер
-            <span className="block text-[#7A7FEE] dark:text-[#7A7FEE]">в разработке</span>
-            проектов
+            Оценка качества
+            <span className="block text-[#7A7FEE] dark:text-[#7A7FEE]">банковского</span>
+            сервиса
           </h1>
           <p className="my-6 text-sm md:text-base max-w-md text-gray-700 dark:text-gray-300">
-            Мы создаем качественные масштабируемые платформы — клиентские порталы, маркетплейсы, AI-автоматизации и SaaS — используя лучшие инструменты без компромиссов.
+            Платформа для тестировщиков и тайных покупателей — проверяем реальный уровень обслуживания в банках и помогаем финансовым компаниям расти через честную обратную связь.
           </p>
           <div className="flex flex-wrap items-center gap-4">
             <ContactFormButton />
             <a href="#services" className="btn-secondary text-black dark:text-white">
-              Узнать больше
+              Как это работает
             </a>
           </div>
         </div>
